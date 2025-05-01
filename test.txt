@@ -1,1 +1,1 @@
-Hello git!
+Hello there, this is a very long greeting to test the git push automation. I hope this works well and that you are having a wonderful day!
