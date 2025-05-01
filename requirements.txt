@@ -1,0 +1,9 @@
+PyGLM
+webcolors
+zengl
+zengl-extras
+pygame-ce
+pillow
+numpy
+asyncio
+gl-context
